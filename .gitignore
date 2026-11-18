@@ -1,0 +1,8 @@
+build
+dist
+.venv
+__pycache__/
+*.pyc
+timer.py
+timer_v2.py
+timer_v3.py
